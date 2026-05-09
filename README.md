@@ -153,19 +153,6 @@ Text        →  #E0E0E0  (light grey)
 Cards       →  #111111  (dark surface)
 Border      →  #1A3A1A  (dark green border)
 Font        →  JetBrains Mono / monospace
-```
-
----
-
-## `// ASSIGNMENT`
-
-Built as **Flutter Assignment 2** — Hacker News Reader.
-
-- ✅ Android target platform
-- ✅ Two screens: Home + Detail
-- ✅ Live HN Firebase API integration
-- ✅ Comments via `kids` array parsing
-- ✅ Bonus: Nested comment rendering
 
 ---
 
@@ -173,7 +160,6 @@ Built as **Flutter Assignment 2** — Hacker News Reader.
 
 ```
 > MADE WITH FLUTTER
-> [ END OF FILE ]
-```
+
 
 </div>
