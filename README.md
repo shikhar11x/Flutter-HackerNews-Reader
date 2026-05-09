@@ -32,6 +32,17 @@
 A **Hacker News reader** built with Flutter, featuring a dark terminal-style UI with neon green accents. Fetches live top stories and comments from the official Hacker News Firebase API.
 
 ---
+## `// DOWNLOAD APK`
+
+<div align="center">
+
+[![Download APK](https://img.shields.io/badge/⬇_DOWNLOAD_APK-v1.0-00FF41?style=for-the-badge&labelColor=0D0D0D)](https://github.com/shikhar11x/Flutter-HackerNews-Reader/releases/tag/v1.0)
+
+```
+> APK → https://github.com/shikhar11x/Flutter-HackerNews-Reader/releases/tag/v1.0
+```
+
+</div>
 
 ## `// FILE STRUCTURE`
 
