@@ -1,13 +1,6 @@
-```
-██╗  ██╗███╗   ██╗    ██████╗ ███████╗ █████╗ ██████╗ ███████╗██████╗
-██║  ██║████╗  ██║    ██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔════╝██╔══██╗
-███████║██╔██╗ ██║    ██████╔╝█████╗  ███████║██║  ██║█████╗  ██████╔╝
-██╔══██║██║╚██╗██║    ██╔══██╗██╔══╝  ██╔══██║██║  ██║██╔══╝  ██╔══██╗
-██║  ██║██║ ╚████║    ██║  ██║███████╗██║  ██║██████╔╝███████╗██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
-
 <div align="center">
+
+<img src="header.svg" alt="Hacker News Reader" width="100%"/>
 
 > `[ A FLUTTER-POWERED HACKER NEWS CLIENT ]`
 
@@ -32,6 +25,7 @@
 A **Hacker News reader** built with Flutter, featuring a dark terminal-style UI with neon green accents. Fetches live top stories and comments from the official Hacker News Firebase API.
 
 ---
+
 ## `// DOWNLOAD APK`
 
 <div align="center">
@@ -44,6 +38,8 @@ A **Hacker News reader** built with Flutter, featuring a dark terminal-style UI 
 
 </div>
 
+---
+
 ## `// SCREENSHOTS`
 
 <div align="center">
@@ -54,6 +50,8 @@ A **Hacker News reader** built with Flutter, featuring a dark terminal-style UI 
 | Top Stories List | Story + Comments |
 
 </div>
+
+---
 
 ## `// FILE STRUCTURE`
 
@@ -88,17 +86,6 @@ A **Hacker News reader** built with Flutter, featuring a dark terminal-style UI 
 
 ---
 
-## `// SCREENS`
-
-| Home Screen | Detail Screen |
-|:-----------:|:-------------:|
-| `TOP STORIES // 30 LOADED` | `[ STORY ] + // COMMENTS` |
-| Numbered story cards | Full story metadata |
-| Points · Author · Time · Comments | Threaded comments with nesting |
-| Pull-to-refresh | Open story in browser |
-
----
-
 ## `// API ENDPOINTS`
 
 ```dart
@@ -130,8 +117,8 @@ GET https://hacker-news.firebaseio.com/v0/item/{id}.json
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/hn_reader.git
-cd hn_reader
+git clone https://github.com/shikhar11x/Flutter-HackerNews-Reader.git
+cd Flutter-HackerNews-Reader
 
 # 2. Install dependencies
 flutter pub get
@@ -175,6 +162,7 @@ Text        →  #E0E0E0  (light grey)
 Cards       →  #111111  (dark surface)
 Border      →  #1A3A1A  (dark green border)
 Font        →  JetBrains Mono / monospace
+```
 
 ---
 
@@ -182,6 +170,7 @@ Font        →  JetBrains Mono / monospace
 
 ```
 > MADE WITH FLUTTER
-
+> [ END OF FILE ]
+```
 
 </div>
