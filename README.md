@@ -44,6 +44,17 @@ A **Hacker News reader** built with Flutter, featuring a dark terminal-style UI 
 
 </div>
 
+## `// SCREENSHOTS`
+
+<div align="center">
+
+| `HOME SCREEN` | `DETAIL SCREEN` |
+|:---:|:---:|
+| <img src="screenshots/1.jpeg" width="250"/> | <img src="screenshots/2.jpeg" width="250"/> |
+| Top Stories List | Story + Comments |
+
+</div>
+
 ## `// FILE STRUCTURE`
 
 ```
